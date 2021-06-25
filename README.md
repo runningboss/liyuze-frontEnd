@@ -2,10 +2,8 @@
 
 大数据可视化页面模板
 
-
-::: warning
 博主整理了一些大数据可视化页面模板，仅供学习参考。
-:::
+
 
 #### 智慧电商
 
@@ -28,7 +26,6 @@
 ::: center
   ![](https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/5.png)
   
-  ![](https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/7.png)
 :::
 #### 智慧医疗
 ::: center
