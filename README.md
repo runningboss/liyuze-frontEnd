@@ -2,6 +2,9 @@
 
 大数据可视化页面模板
 
+各类大屏展示模板持续更新中...
+
+
 博主整理了一些大数据可视化页面模板，仅供学习参考。
 
 
@@ -44,6 +47,8 @@
 ![](https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/11.png)
 
 ![](https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/12.png)
+
+![智慧网络](https://images.gitee.com/uploads/images/2019/0614/130350_9cd91afc_2327318.png "智慧网络.png")
 :::
 
 个人对数据可视化这块有深入的研究，一个漂亮炫酷的数据可视化页面不仅仅要有好的UI设计更需要前端合理的页面布局，符合商业业务模式，呈现清晰明了的数据展示。
